@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+hr{
+    height: 5px;
+    background-color: black;
+    
+}
+a{
+    display: flex;
+    justify-content: center;
+}
+/* .a1{
+    display: inline;
+    margin-right: 20px;
+} */
+/* .b1{
+    display: inline;
+    margin-bottom: 20px; */
+/* } */
+img{
+    width: 200px;
+    height: 100px;
+}
